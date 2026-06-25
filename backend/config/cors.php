@@ -21,7 +21,6 @@ return [
 
     'allowed_origins' => ['https://considerate-miracle-production-47cb.up.railway.app'],
 
-
     'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
