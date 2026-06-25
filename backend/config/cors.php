@@ -19,9 +19,8 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => [
-        env('FRONTEND_URL', 'http://localhost:5173'),
-    ],
+    'allowed_origins' => ['https://considerate-miracle-production-47cb.up.railway.app'],
+
 
     'allowed_origins_patterns' => [],
 
